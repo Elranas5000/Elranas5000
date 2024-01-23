@@ -31,6 +31,11 @@ En mi viaje profesional, no solo busco completar proyectos, sino también aprend
 
 Mi objetivo principal es absorber conocimientos y experiencias para convertirme en un profesional más versátil y valioso. Estoy comprometido con la creación de soluciones innovadoras y la mejora continua de mis habilidades técnicas y blandas.
 
+### Proyectos Destacados
+
+- [DREWILI eCommerce](https://github.com/drewilipf/drewili-pf): eCommerce realizado para una empresa de dropshipping. La página facilita la compra y venta de productos relacionados con la tecnología.
+- [Countries SPA](https://github.com/Elranas5000/pi-countries): Pequeña SPA que muestra paises y más información, además de tener ciertas interacciones para el usuario.
+
 ## Conéctate conmigo
 
 ¡Hablemos! Estoy abierto a colaboraciones, oportunidades y nuevas conexiones. Puedes encontrarme en:
