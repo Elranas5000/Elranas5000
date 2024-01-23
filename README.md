@@ -1,6 +1,6 @@
 ## Desarrollador Full Stack
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado Programador Full Stack especializado en JavaScript, CSS, Node.js, React.js, Redux, React Native, Sequelize, HTML5, PostgresSQL y Visual Studio. Mi experiencia abarca el desarrollo de soluciones web de extremo a extremo.
+Hola, soy un apasionado Programador Full Stack especializado en JavaScript, CSS, Node.js, React.js, Redux, React Native, Sequelize, HTML5, PostgresSQL y Visual Studio. Mi experiencia abarca el desarrollo de soluciones web de extremo a extremo.
 
 ## Acerca de mí
 
